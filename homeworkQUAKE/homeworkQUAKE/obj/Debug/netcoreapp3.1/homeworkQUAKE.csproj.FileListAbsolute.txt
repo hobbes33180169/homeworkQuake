@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\bin\Debug\netcoreapp3.1\homeworkQUAKE.exe
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\bin\Debug\netcoreapp3.1\homeworkQUAKE.deps.json
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\bin\Debug\netcoreapp3.1\homeworkQUAKE.runtimeconfig.json
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\bin\Debug\netcoreapp3.1\homeworkQUAKE.runtimeconfig.dev.json
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\bin\Debug\netcoreapp3.1\homeworkQUAKE.dll
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\bin\Debug\netcoreapp3.1\homeworkQUAKE.pdb
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.csprojAssemblyReference.cache
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.AssemblyInfo.cs
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.dll
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.pdb
+C:\Users\User\source\repos\homeworkQUAKE\homeworkQUAKE\obj\Debug\netcoreapp3.1\homeworkQUAKE.genruntimeconfig.cache
